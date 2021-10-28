@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=jara1998&show_icons=true&theme=gradient&include_all_commits=true)]
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=jara1998&show_icons=true&theme=radical&include_all_commits=true)]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jara1998&layout=compact&theme=gradient)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jara1998&layout=compact&theme=radical)]
