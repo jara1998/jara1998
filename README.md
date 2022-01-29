@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 
 <!-- ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=jara1998&show_icons=true&theme=radical&include_all_commits=true&Gradient=true) -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jara1998&show_icons=true&theme=radical)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jara1998&show_icons=true&theme=radical)
+ -->
